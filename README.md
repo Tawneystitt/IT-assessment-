@@ -1,7 +1,7 @@
 <h1>Strategic Assessment Report</h1>
 
 <h2>Description</h2>
-This is my IT strategic Assessment report completed in CIS 410
+This is my IT strategic Assessment report completed in CIS 410:
 <br />
 
 
@@ -9,40 +9,6 @@ This is my IT strategic Assessment report completed in CIS 410
 
 <p align="center">
 
-
-Table of Contents
-1.	Executive Summary	3
-2.	History and Purpose	3
-2.1	History of the Decal Hub	3
-2.2	Purpose of the Decal Hub	3
-3.	Management and Business Processes	3
-3.1	Practice 1	3
-3.2	Practice 2	3
-3.3	Practice 3	3
-3.4	Practice 4	3
-3.5	Practice 5	3
-4.	Current IT Environment	3
-4.1	Hardware	3
-4.2	Software	3
-4.3	Staff IT Skills/Training	3
-4.4	IT Budgeting and Spending	3
-5.	Envisioned IT Capabilities	3
-5.1	Leadership’s Vision	3
-5.2	Top 10 Technology Issues	3
-6.	Closing the Gap	3
-6.1	Recommendation 1	3
-6.2	Recommendation 2	3
-6.3	Recommendation 3	3
-6.4	Recommendation 4	3
-6.5	Recommendation 5	3
-7.	Conclusion	3
-8.	Appendices	3
-8.1	Basis of Analysis	3
-8.2	Technology Inventory	3
-8.3	Top 10 Technology Issues	3
-8.4	Strategic Planning/Visioning Documents	3
-8.5	IT Budget/Spending Documents	3
- 
 
 1.	Executive Summary
 The Decal Hub is a small family business in northern Michigan that sells customizable decals. After my strategic assessment of their business the strengths of this business I have found to be their strength in high customer satisfaction ratings and innovative product range. For improvement, particularly in IT capabilities and marketing strategies, I have found a few recommendations, that this business could utilize to build its brand to be even stronger in today’s decal industry. I believe it’s important to adopt a proactive approach to IT investments and create an online presence to gain marketing opportunities. 
